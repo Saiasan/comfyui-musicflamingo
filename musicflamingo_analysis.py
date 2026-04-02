@@ -18,7 +18,7 @@ except Exception:  # pragma: no cover - allows running this node outside Comfy
     _ComfyProgressBar = None
 
 
-MODEL_ID = "nvidia/music-flamingo-hf"
+MODEL_ID = "henry1477/music-flamingo-2601-hf-fp8"
 
 _processor = None
 _models = {}
