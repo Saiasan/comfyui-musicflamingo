@@ -1,4 +1,4 @@
-# ComfyUI Custom Node for Music Flamingo
+# ComfyUI Custom Node for Music Flamingo FP8 (https://huggingface.co/henry1477/music-flamingo-2601-hf-fp8)
 
 **Custom node for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that allows you to analyze songs using NVIDIA's [Music Flamingo](https://musicflamingo.github.io/).**
 
